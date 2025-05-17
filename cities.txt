@@ -1,0 +1,6 @@
+Thailand - Bangkok (13.7563, 100.5018)
+Singapore - Singapore (1.3521, 103.8198)
+Malaysia - Kuala Lumpur (3.1390, 101.6869)
+Myanmar - Naypyidaw (19.7633, 96.0785)
+Indonesia - Jakarta (-6.2088, 106.8456)
+Vietnam - Hanoi (21.0285, 105.8542)

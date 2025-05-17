@@ -1,0 +1,4 @@
+# Current Active Smart Contract Address
+# Deployed on local Ganache network
+
+0x040B92577d65B3cB5e584fa6B69e90D86a3803b9 
